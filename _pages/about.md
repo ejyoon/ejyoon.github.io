@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Psychology Instructor at College of San Mateo.  
+I am a learning scientist and psychology instructor interested in how people learn, communicate, and reason. I currently teach psychology at College of San Mateo.
 <br><br>
-Before, I was a Teaching Coordinator for Symbolic Systems Program at Stanford University, where I was primarily responsible for coordinating <a href="https://symsys1.stanford.edu">Symsys 1</a>, the introduction course required of Symsys undergraduate majors.
+Before this, I served as Teaching Coordinator for <a href="https://symsys1.stanford.edu">Symsys 1: Minds and Machines</a> in Stanford’s Symbolic Systems program, where I coordinated instructional teams across psychology, computer science, linguistics, and philosophy. In that role I helped redesign the course into a hybrid flipped-classroom model that combined asynchronous lectures, discussion-based learning, and project-based exploration of topics related to cognition and artificial intelligence.
 <br><br>
-Before that, I was a PhD student in Department of Psychology at Stanford University, working with [Dr. Michael C. Frank](https://web.stanford.edu/~mcfrank/) in [Language and Cognition Lab](http://langcog.stanford.edu/). My research focuses on how adults and children understand speaker's goals behind utterances, looking at polite language as a case study of speech that reflects various goals such as goals to inform others, to be prosocial and kind, and to present oneself in a good light. 
+I completed my PhD in the Department of Psychology at Stanford University, where I worked with [Dr. Michael C. Frank](https://web.stanford.edu/~mcfrank/) in [Language and Cognition Lab](http://langcog.stanford.edu/). My research examines how adults and children interpret speakers’ intentions in communication. In particular, I study how people infer the goals behind language—such as informing others, maintaining social relationships, or presenting oneself positively—using polite language as a case study.
