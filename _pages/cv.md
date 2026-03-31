@@ -15,7 +15,7 @@ I'm currently seeking roles at the intersection of learning science, program lea
 
 ---
 
-[Download full CV](https://ejyoon.github.io/files/Yoon-CV.pdf) &nbsp;·&nbsp; [Download resume](https://ejyoon.github.io/files/Yoon-Resume.pdf) &nbsp;·&nbsp; [Work samples & portfolio](https://ejyoon.github.io/files/Yoon_Portfolio.pdf)
+[Download full CV](https://ejyoon.github.io/files/Yoon-CV.pdf) &nbsp;·&nbsp; [Download resume](https://ejyoon.github.io/files/Yoon-Resume.pdf) &nbsp;·&nbsp; [Learning design portfolio](https://ejyoon.github.io/files/Yoon_Portfolio.pdf) &nbsp;·&nbsp; [Research & measurement portfolio](https://ejyoon.github.io/files/Erica_Yoon_Research_Portfolio.pdf)
 
 ---
 
