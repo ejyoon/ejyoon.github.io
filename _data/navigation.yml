@@ -1,14 +1,15 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /publications/
-
+  - title: "Work"
+    url: /cv/
+    
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Papers"
+    url: /publications/
         
   - title: "Personal"
     url: /personal/
     
-  - title: "Work"
-    url: /cv/
-    
+
