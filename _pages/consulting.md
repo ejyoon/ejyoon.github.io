@@ -130,21 +130,21 @@ author_profile: true
 
 <h2>How I work</h2>
 
-<p>Most college essays start from the wrong question: <em>what will look impressive?</em> The result tends to be generic — experiences described rather than conveyed, packaging that reads the same as everyone else's.</p>
+<p>Most college essays start from the wrong question: <em>what will look impressive?</em> The result tends to be generic: experiences described rather than conveyed, packaging that reads the same as everyone else's.</p>
 
-<p>I start somewhere different. Before looking at a single sentence, I try to understand who the student actually is — what they've done, what they care about, where the real story already exists. Only then do I work on structure and direction: how to make that story land with a reader who has seen hundreds of applications that day.</p>
+<p>I start somewhere different. Before looking at a single sentence, I try to understand who the student actually is: what they've done, what they care about, where the real story already exists. Only then do I work on structure and direction: how to make that story land with a reader who has seen hundreds of applications that day.</p>
 
 <p>This is less about editing and more about clarity. The student writes. I help them see what's already there.</p>
 
 <h2>Background</h2>
 
-<p>I hold a PhD in Developmental Psychology from Stanford, where I studied how children and adolescents develop language, reasoning, and social judgment — in other words, how people communicate who they are and what they mean.</p>
+<p>I hold a PhD in Developmental Psychology from Stanford, where I studied how children and adolescents develop language, reasoning, and social judgment. In other words, how people communicate who they are and what they mean.</p>
 
 <p>During my time at Stanford I was involved in three selection processes:</p>
 
 <ul>
   <li>I served on the PhD admissions committee and participated in faculty hiring review in the Psychology department.</li>
-  <li>I designed and ran the full admissions process for the CSLI undergraduate research internship program — 700+ applicants, 12 placements, across 12 interdisciplinary labs — for four years. This included building the review structure, training reviewers, designing the scoring system, and facilitating the final decision meeting.</li>
+  <li>I designed and ran the full admissions process for the CSLI undergraduate research internship program (700+ applicants, 12 placements, across 12 interdisciplinary labs) for four years. This included building the review structure, training reviewers, designing the scoring system, and facilitating the final decision meeting.</li>
 </ul>
 
 <p>Over the past decade I've worked with students applying to undergraduate and graduate programs. A sample of where they've been admitted:</p>
@@ -167,7 +167,7 @@ author_profile: true
 <ul>
   <li>Have strong profiles but feel stuck on how to approach the essay</li>
   <li>Have a draft but aren't sure if the direction is right</li>
-  <li>Are willing to do the thinking — and the writing — themselves</li>
+  <li>Are willing to do the thinking and the writing themselves</li>
 </ul>
 
 <p>It's probably not a good fit if you're looking for someone to write or heavily rewrite the essay, or if you need full-cycle admissions support (school list, activities, timeline management).</p>
@@ -176,7 +176,7 @@ author_profile: true
 
 <p>I work in three to four focused sessions, typically over the course of a few weeks:</p>
 <ul>
-  <li>First session: I read everything the student can share — draft, activity list, anything relevant — and we identify direction and what the essay needs to do.</li>
+  <li>First session: I read everything the student can share (draft, activity list, anything relevant) and we identify direction and what the essay needs to do.</li>
   <li>Middle sessions: structure, narrative arc, what's working and what isn't.</li>
   <li>Final session: line-level feedback on a near-complete draft.</li>
 </ul>
@@ -193,15 +193,15 @@ author_profile: true
 <!-- KOREAN -->
 <div class="consulting-section" id="section-ko">
 
-<p class="tagline">준비된 학생의 이야기를 제대로 읽히게 만드는 작업입니다.</p>
+<p class="tagline">학생의 이야기를 효과적으로 전달하길 도와주는 Storytelling 컨설턴트</p>
 
-<h2>어떻게 접근하는지</h2>
+<h2>접근 방법</h2>
 
-<p>대부분의 입시 에세이는 잘못된 질문에서 시작합니다. <em>"어떻게 보여줄까?"</em> 그 결과는 대개 비슷해 보입니다. 경험을 나열하고, 포장하고, 결국 수백 개의 지원서와 같은 느낌이 됩니다.</p>
+<p>대부분의 입시 에세이는 잘못된 질문에서 시작합니다. <em>"어떻게 내가 잘난 학생인지 보여줄까?"</em> 그 결과는 대개 비슷해 보입니다. 경험을 나열하고, 포장하고, 결국 수백 개의 지원서와 같은 느낌이 됩니다.</p>
 
-<p>저는 반대 방향에서 시작합니다. 에세이 한 줄을 보기 전에, 먼저 이 학생이 실제로 어떤 사람인지를 이해하려고 합니다. 무엇을 해왔고, 무엇을 중요하게 생각하는지, 이미 존재하는 이야기가 어디 있는지를 찾습니다. 그런 다음에야, 그 이야기가 하루에 수백 개의 지원서를 읽는 선발자에게 살아 보이도록 구조와 방향을 잡습니다.</p>
+<p>저는 반대 방향에서 시작합니다. 에세이 한 줄을 보기 전에, 먼저 이 학생이 실제로 어떤 사람인지를 이해하려고 합니다. 무엇을 해왔고, 무엇을 중요하게 생각하는지, 이미 존재하는 이야기가 어디 있는지를 찾습니다. 그리고서는 그 이야기가 하루에 수백 개의 지원서를 읽는 선발자에게 살아 보이도록 구조와 방향을 잡습니다.</p>
 
-<p>이건 교정이나 첨삭과는 다릅니다. 글은 학생이 씁니다. 저는 이미 있는 것을 더 명확하게 볼 수 있도록 돕습니다.</p>
+<p>교정이나 첨삭과는 다릅니다. 글은 학생이 씁니다. 저는 이미 있는 것을 더 명확하게 볼 수 있도록 돕습니다.</p>
 
 <h2>경험</h2>
 
@@ -236,18 +236,18 @@ author_profile: true
   <li>스스로 생각하고 표현하려는 의지가 있는 학생</li>
 </ul>
 
-<p>다만, 에세이를 대신 써주기를 기대하거나, 학교 선정이나 일정 관리 등 전반적인 입시 관리가 필요한 경우에는 제 방식이 잘 맞지 않을 수 있습니다.</p>
+<p>다만, 에세이를 대신 써주기를 기대하거나, 학교 선정이나 일정 관리 등 전반적인 입시 관리가 필요한 경우는 제 방식이 잘 맞지 않을 수 있습니다.</p>
 
 <h2>진행 방식</h2>
 
 <p>보통 3-4회의 집중 세션으로 진행합니다:</p>
 <ul>
-  <li>첫 번째 세션: 학생이 가진 자료를 모두 읽고 — 초안, 활동 목록, 관련된 것들 — 에세이가 해야 할 일과 방향을 함께 잡습니다.</li>
+  <li>첫 번째 세션: 학생이 가진 자료를 모두 읽고 (초안, 활동 목록, 관련된 것들) 에세이가 해야 할 일과 방향을 함께 잡습니다.</li>
   <li>중간 세션: 구조, 서사의 흐름, 잘 되고 있는 것과 그렇지 않은 것.</li>
   <li>마지막 세션: 거의 완성된 초안에 대한 문장 수준의 피드백.</li>
 </ul>
 
-<p>문의하신다고 해서 모두 진행하지는 않습니다. 유료 첫 상담 후, 실제로 도움이 될 수 있는지 솔직하게 말씀드립니다.</p>
+<p>유료 첫 상담 후, 실제로 도움이 될 수 있는지 솔직하게 말씀드린 후 진행합니다.</p>
 
 <div class="contact-block">
   <p>올여름 소수 학생만 집중적으로 진행할 예정입니다 (2026년 가을 지원 기준).</p>
