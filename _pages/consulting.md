@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Consulting"
+title: "College Essay Consulting"
 permalink: /consulting/
 author_profile: true
 ---
@@ -181,7 +181,7 @@ author_profile: true
   <li>Final session: line-level feedback on a near-complete draft.</li>
 </ul>
 
-<p>I don't take every student who reaches out. After an initial paid consultation, I'll let you know honestly whether I think I can help.</p>
+<p>After the first consultation, you'll leave with a clear read on where the essay stands and what it needs. From there, I'll let you know honestly whether I think continued work would make a meaningful difference.</p>
 
 <div class="contact-block">
   <p>Available for a limited number of students this summer (fall 2026 applicants).</p>
@@ -247,7 +247,7 @@ author_profile: true
   <li>마지막 세션: 거의 완성된 초안에 대한 문장 수준의 피드백.</li>
 </ul>
 
-<p>유료 첫 상담 후, 실제로 도움이 될 수 있는지 솔직하게 말씀드린 후 진행합니다.</p>
+<p>첫 상담 후, 에세이의 현재 상태와 필요한 방향에 대한 구체적인 피드백을 받아가실 수 있습니다. 그 후 추가 컨설팅이 실질적인 도움이 될 수 있을지 솔직하게 말씀드립니다.</p>
 
 <div class="contact-block">
   <p>올여름 소수 학생만 집중적으로 진행할 예정입니다 (2026년 가을 지원 기준).</p>
