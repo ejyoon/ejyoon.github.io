@@ -11,5 +11,7 @@ main:
         
   - title: "Personal"
     url: /personal/
-    
+
+  - title: "Consulting"
+    url: /consulting/
 
